@@ -1,0 +1,32 @@
+body { 
+    text-align: center;
+    background-color: rgb(76, 143, 201);
+}
+
+h1 { 
+    margin: 80px auto 40px;
+}
+
+#results {
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(241, 241, 241);
+  }
+
+.input-box { 
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 5px auto 5px;
+}
+
+.button { 
+    background-color: aliceblue;
+    width: 200px;
+    border-radius: 10px;
+    margin: 5px auto 5px;
+}
+
+.weight-guide { 
+    margin-top: 50px;
+}
